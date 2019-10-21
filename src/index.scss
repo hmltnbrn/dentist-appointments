@@ -1,0 +1,14 @@
+@import "./styles/variables.scss";
+@import "./styles/mixins.scss";
+
+html {
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+}
+
+body {
+  font-size: 13px;
+  background: $background-color;
+  width: 100%;
+  margin: 0;
+}

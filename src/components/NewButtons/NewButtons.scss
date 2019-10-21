@@ -1,0 +1,8 @@
+.new-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  & > div {
+    margin: 10px;
+  }
+}
